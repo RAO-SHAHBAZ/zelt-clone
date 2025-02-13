@@ -69,21 +69,21 @@ html , body{
 }
 
 #page>h1 {
-    font-size: 80px;
     position: absolute;
     z-index: 99;
-    text-align: center;
-    top: 38%;
     font-weight: 500;
+    top: 38%;
+    text-align: center;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 80px;
 }
 
 #page>h4 {
     font-size: 30px;
     position: absolute;
     text-align: center;
-    top: 60%;
+    top: 55%;
     font-weight: 400;
     left: 50%;
     transform: translate(-50%, -50%);
